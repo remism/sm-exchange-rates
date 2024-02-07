@@ -1,0 +1,9 @@
+- split the project into modules
+- decide the conditional beans and other implementations
+- prepare the fixer service mock for testing
+- prepare the testcontainers for jpa testing
+- solve the pg cache write concurency
+- solve the database storage
+  - normalize
+  - unique key/primary key
+- solve the in memory cache
